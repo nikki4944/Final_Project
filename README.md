@@ -1,3 +1,2 @@
-# Final_Project
+# Final Project
 
-## Project Proposal
