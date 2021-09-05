@@ -8,7 +8,7 @@ For the final project, the team has decided to perform an analysis of housing pr
 
 The team intends to use the Pandas library for cleaning and scraping the data, PostgreSQL to store and complile the dataset to be analyzed, and the scikitlearn library for compiling the machine learning model. Additionally, all visuals for the final deliverable will be created using Tableau.
 
-All data used for the segment 1 deliverables came from a precleaned and compiled dataset pulled from kaggle.com in order to mockup the databases and machine learning model we intend to use for the final project deliverable. The team intends to build a similar dataset with data relating to the DMV region and five year time period we are analyzing using webscraping and APIs from zillow.com and Census data for demographic information.
+All data used for the Segment 1 deliverables came from a precleaned and compiled dataset pulled from kaggle.com in order to mockup the databases and machine learning model we intend to use for the final project deliverable. The team intends to build a similar dataset with data relating to the DMV region and five year time period we are analyzing using webscraping and APIs from zillow.com and Census data for demographic information.
 
 ## Communication Protocol
 
