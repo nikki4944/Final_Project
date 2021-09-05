@@ -14,6 +14,8 @@ A mockup database has been created using Amazon RDS and Postgres to host our CSV
 
 ![FinalProject_Housing_CreateTableCode](https://user-images.githubusercontent.com/82347825/132143913-3972af79-d2c2-43ab-92c7-0f684ab0ee0e.png)
 
-- And the final result with the data loaded:
+- The database with all data loaded:
 
 ![FinalProject_Housing_Postgres_Data](https://user-images.githubusercontent.com/82347825/132143923-ac272c5e-4926-4d72-960c-c962366087a8.png)
+
+- We were then able to run the machine learning model off the data in the [boston_housing.ipynb](https://github.com/nikki4944/Final_Project/blob/Adam/boston_housing.ipynb) file.
