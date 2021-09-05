@@ -29,7 +29,7 @@ This dataset contains 511 distinct values and 14 columns. Each column name and i
 | lstat | lower status of the population (percent) | feature |
 | medv | median value of owner-occupied homes in \$1000s | **target** |
 
-The complete dataset is available in the csv format ![here](boston_housing.csv)
+The complete dataset is available in the csv format [here](boston_housing.csv)
 
 # Methodology
 
