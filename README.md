@@ -35,12 +35,12 @@ The complete dataset is available in the csv format [here](boston_housing.csv)
 
 The following steps will be used to develop and analyze the performance of the two ML algorithms.
 
-* Load the data into a pandas dataframe
+* Load data into a pandas dataframe
 * Remove rows containing null values in any column
 * Split the dataframe into two - one containing all features (13 columns) and the other containing the target (the **medv** column)
-* Split each dataframe into training and testing set. Through trial and error, we determined to make 80% data available to the training set
+* Split each dataframe into training and testing sets. Through trial and error, we determined to make 80% data available to the training set
 * Create a model on the training set
-* Make model predictions on the testing set
+* Use the model to make predictions on the testing set
 * Calculate model accuracy (the **R2** statistic in this case) and the **room mean squared error** (RMSE) metric
 * Evaluate the effectiveness of the model
 
@@ -64,3 +64,35 @@ On the other hand, the random forest regressor achieved an extremely high level 
 
 ## Importance of Features
 
+We do not know if all 13 input features are important for prediction of the target. For the multiple linear regressor, this question can be answered by examining the regression equation. In particular, if the *coefficient* of the feature is high and if its *p-value* is simultaneously low (below 0.05), the input feature is an important predictor. The table below summarizes this finding for all 13 features along with the *intercept*.
+
+| Feature | Coefficient | p value: P > |t| | Importance | 
+| ------- | ----------- | ----------------- | ---------- |
+| Coefficient | 19.77 | 0.0077 | **yes** |
+| CRIM | - 0.17 | 0.0002 | **yes** |
+| ZN | 0.05 | 0.02 | **no - the coefficient is too low** |
+| INDUS | -0.02 | 0.85 | **no - the p-value is too high** |
+| CHAS | 3.6 | 0.0073 | **yes** |
+| NOX | -17.36 | 0.0033 | **yes** |
+| RM | 5.81 | 0 | **yes** |
+| AGE | -0.06 | 0.003 | **no - the coefficient is too low** |
+| DIS | -1.93 | 0 | **yes** |
+| RAD | 0.22 | 0.0246 | **yes** |
+| TAX | -0.01 | 0.0205 | **no - the coefficient is too low** |
+| PTRATIO | -0.61 | 0.0017 | **yes** |
+| B | 0.009 | 0.0327 | **no - the coefficient is too low** |
+| LSTAT | -0.1 | 0.0769 | **no - the p-value is too high** |
+
+Based on the above table, we can identify the most important features affecting the price of the house by ranking their coefficients from highest to lowest. The top three features are identified below.
+
+* **NOX - Nitrogen Oxides Concentration** - this affects the house price negatively the most.
+* **RM - Average Number of Rooms** - this affects the house price positively.
+* **CHAS - Charles River Dummy** - this affects the house price positively. 
+
+# Further Tuning
+
+In the main project, we will analyze datasets containing many more columns. Not all columns would be good predictors of the target; we will use the **correlation matrix** and just plain old scatterplots to remove redundant features from the final feature dataset.
+
+In order to prevent overfitting of the random forest regressor on the training data, we would consider reducting the percentage of data points available to the training dataset. We would also consider reducing the number of features for the random forest - in this exercise, we use a very nigh number (128).
+
+Finally, we didn't encounter categorical input data - if we do, we would have to create *dummy variables*. We also didn't scale any input features to increase its sensitivity to the target; if we encounter input data with extremely large or small ranges, we would have to use the appropriate scalars to transform those features.
