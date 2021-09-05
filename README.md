@@ -1,6 +1,6 @@
 # Overview
 
-In this project, we will create models to predict house prices based on a variety of features. This falls in the category of developing *supervised* ML-driven algorithms to predict the output. Since the output - the house price - is a continuous variable, the following two ML algorithms are appropriate for development:
+In this project, we will create models to predict house prices based on a variety of features. This falls in the category of developing *supervised* ML-driven algorithms to predict the output. Since the output - the house price - is a continuous variable, the following two ML algorithms are appropriate for consideration:
 
 * **Multiple Linear Regression** - in this algorithm, an equation such as Y = f(X) describes the relationship between features - X - (also called as independent variables) and the target - Y - (also called as the dependent variable). The multiple linear regression will derive this equation with the objective of minimizing *root mean squared error* (RMSE).
 
