@@ -66,8 +66,8 @@ On the other hand, the random forest regressor achieved an extremely high level 
 
 We do not know if all 13 input features are important for prediction of the target. For the multiple linear regressor, this question can be answered by examining the regression equation. In particular, if the *coefficient* of the feature is high and if its *p-value* is simultaneously low (below 0.05), the input feature is an important predictor. The table below summarizes this finding for all 13 features along with the *intercept*.
 
-| Feature | Coefficient | p value: P > |t| | Importance | 
-| ------- | ----------- | ----------------- | ---------- |
+| Feature | Coefficient | p value: P > mod(t) | Importance | 
+| ------- | ----------- | ------------------- | ---------- |
 | Coefficient | 19.77 | 0.0077 | **yes** |
 | CRIM | - 0.17 | 0.0002 | **yes** |
 | ZN | 0.05 | 0.02 | **no - the coefficient is too low** |
