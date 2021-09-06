@@ -68,7 +68,7 @@ We do not know if all 13 input features are important for prediction of the targ
 
 | Feature | Coefficient | p value: P > mod(t) | Importance | 
 | ------- | ----------- | ------------------- | ---------- |
-| Coefficient | 19.77 | 0.0077 | **yes** |
+| Intercept | 19.77 | 0.0077 | **yes** |
 | CRIM | - 0.17 | 0.0002 | **yes** |
 | ZN | 0.05 | 0.02 | **no - the coefficient is too low** |
 | INDUS | -0.02 | 0.85 | **no - the p-value is too high** |
