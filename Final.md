@@ -29,4 +29,16 @@ The 2020 demographics data for all Maryland zip codes is avaulable from the Mary
 
 ## Greatschools School Ratings Data
 
+All elementary, middle and high school ratings data has been extracted from Greatschools: https://www.greatschools.org/
+
+## Important Locations in the Montgomery County
+
+The following important locations will be saved in a table:
+
+* Malls
+* I495
+* Interstate County Connector (ICC)
+* Community Centers
+* Montgomery College Campuses
+
 
