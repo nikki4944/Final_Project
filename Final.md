@@ -1,6 +1,6 @@
 # Data
 
-![](montgomery-county-sales/data_pipeline.png)
+![alt](montgomery-county-sales/data_pipeline.png)
 
 # Resources
 
