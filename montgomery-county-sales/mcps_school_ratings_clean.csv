@@ -1,0 +1,200 @@
+,School,Address,Rating,Type,Enrollment,Students per Teacher
+0,burning tree elementary,"7900 Beech Tree Road, Bethesda, MD, 20817",10.0,E,473,13.0
+1,spark m. matsunaga elementary,"13902 Bromfield Road, Germantown, MD, 20874",9.0,E,728,17.0
+2,bannockburn elementary,"6520 Dalroy Lane, Bethesda, MD, 20817",9.0,E,440,17.0
+3,bells mill elementary,"8225 Bells Mill Road, Potomac, MD, 20854",9.0,E,619,16.0
+4,cold spring elementary,"9201 Falls Chapel Way, Potomac, MD, 20854",9.0,E,330,16.0
+5,farmland elementary,"7000 Old Gate Road, Rockville, MD, 20852",9.0,E,830,16.0
+6,lakewood elementary,"2534 Lindley Terrace, Rockville, MD, 20850",9.0,E,476,16.0
+7,seven locks elementary,"9500 Seven Locks Road, Bethesda, MD, 20817",9.0,E,429,15.0
+8,travilah elementary,"13801 Dufief Mill Road, North Potomac, MD, 20878",9.0,E,358,15.0
+9,westbrook elementary,"5110 Allan Terrace, Bethesda, MD, 20816",9.0,E,348,12.0
+10,westover elementary,"401 Hawkesbury Lane, Silver Spring, MD, 20904",9.0,E,308,12.0
+11,wood acres elementary,"5800 Cromwell Drive, Bethesda, MD, 20816",9.0,E,660,16.0
+12,woodfield elementary,"24200 Woodfield Road, Gaithersburg, MD, 20882",9.0,E,339,12.0
+13,wyngate elementary,"9300 Wadsworth Drive, Bethesda, MD, 20817",9.0,E,728,19.0
+14,little bennett elementary,"23930 Burdette Forest Road, Clarksburg, MD, 20871",8.0,E,614,14.0
+15,wilson wims elementary,"12520 Blue Sky Drive, Clarksburg, MD, 20871",8.0,E,1244,18.0
+16,lois p. rockwell elementary,"24555 Cutsail Drive, Damascus, MD, 20872",8.0,E,474,13.0
+17,belmont elementary,"19528 Olney Mill Road, Olney, MD, 20832",8.0,E,333,16.0
+18,bethesda elementary,"7600 Arlington Road, Bethesda, MD, 20814",8.0,E,650,14.0
+19,beverly farms elementary,"8501 Postoak Road, Potomac, MD, 20854",8.0,E,585,16.0
+20,carderock springs elementary,"7401 Persimmon Tree Lane, Bethesda, MD, 20817",8.0,E,361,14.0
+21,cedar grove elementary,"24001 Ridge Road, Germantown, MD, 20876",8.0,E,613,16.0
+22,chevy chase elementary,"4015 Rosemary Street, Chevy Chase, MD, 20815",8.0,E,452,17.0
+23,diamond elementary,"4 Marquis Drive, Gaithersburg, MD, 20878",8.0,E,770,15.0
+24,fallsmead elementary,"1800 Greenplace Terrace, Rockville, MD, 20850",8.0,E,562,17.0
+25,forest knolls elementary,"10830 Eastwood Avenue, Silver Spring, MD, 20901",8.0,E,721,13.0
+26,lucy v. barnsley elementary,"14516 Nadine Drive, Rockville, MD, 20853",8.0,E,721,14.0
+27,luxmanor elementary,"5701 Grosvenor Lane, Bethesda, MD, 20814",8.0,E,576,14.0
+28,monocacy elementary,"18801 Barnesville Road, Dickerson, MD, 20842",8.0,E,147,12.0
+29,kensington parkwood elementary,"4710 Saul Road, Kensington, MD, 20895",8.0,E,656,17.0
+30,poolesville elementary,"19565 Fisher Avenue, Poolesville, MD, 20837",8.0,E,480,16.0
+31,potomac elementary,"7000 Radnor Road, Bethesda, MD, 20817",8.0,E,362,17.0
+32,somerset elementary,"5811 Warwick Place, Chevy Chase, MD, 20815",8.0,E,587,16.0
+33,wayside elementary,"10011 Glen Rd, Potomac, MD, 20854",8.0,E,533,15.0
+34,stone mill elementary,"14323 Stonebridge View Drive, North Potomac, MD, 20878",8.0,E,613,14.0
+35,dr. charles r. drew elementary,"1200 Swingingdale Drive, Silver Spring, MD, 20905",8.0,E,469,12.0
+36,sligo creek elementary,"500 Schuyler Road, Silver Spring, MD, 20910",7.0,E,670,16.0
+37,william b. gibbs jr. elementary,"12615 Royal Crown Drive, Germantown, MD, 20876",7.0,E,652,15.0
+38,jones lane elementary,"15110 Jones Ln, Gaithersburg, MD, 20878",7.0,E,420,13.0
+39,bradley hills elementary,"8701 Hartsdale Avenue, Bethesda, MD, 20817",7.0,E,590,18.0
+40,cashell elementary,"17101 Cashell Road, Rockville, MD, 20853",7.0,E,363,12.0
+41,dufief elementary,"15001 DuFief Drive, Gaithersburg, MD, 20878",7.0,E,310,11.0
+42,flower valley elementary,"4615 Sunflower Drive, Rockville, MD, 20853",7.0,E,490,13.0
+43,fox chapel elementary,"19315 Archdale Road, Germantown, MD, 20876",7.0,E,598,14.0
+44,greenwood elementary,"3336 Gold Mine Road, Brookeville, MD, 20833",7.0,E,515,16.0
+45,laytonsville elementary,"21401 Laytonsville Road, Gaithersburg, MD, 20882",7.0,E,384,12.0
+46,olney elementary,"3401 Queen Mary Drive, Olney, MD, 20832",7.0,E,692,17.0
+47,piney branch elementary,"7510 Maple Avenue, Takoma Park, MD, 20912",7.0,E,677,16.0
+48,ritchie park elementary,"1514 Dunster Road, Rockville, MD, 20854",7.0,E,432,16.0
+49,rock creek forest elementary,"8330 Grubb Road, Chevy Chase, MD, 20815",7.0,E,739,14.0
+50,sherwood elementary,"1401 Olney-Sandy Spring Rd, Sandy Spring, MD, 20860",7.0,E,527,12.0
+51,stonegate elementary,"14811 Notley Road, Silver Spring, MD, 20905",7.0,E,502,15.0
+52,william tyler page elementary,"13400 Tamarack Road, Silver Spring, MD, 20904",7.0,E,535,13.0
+53,woodlin elementary,"2101 Luzerne Avenue, Silver Spring, MD, 20910",7.0,E,577,15.0
+54,north chevy chase elementary,"3700 Jones Bridge Road, Chevy Chase, MD, 20815",7.0,E,261,14.0
+55,clearspring elementary,"9930 Moyer Road, Damascus, MD, 20872",7.0,E,618,15.0
+56,brooke grove elementary,"2700 Spartan Road, Olney, MD, 20832",7.0,E,433,12.0
+57,rachel carson elementary,"100 Tschiffely Square Road, Gaithersburg, MD, 20878",7.0,E,973,17.0
+58,ronald a. mcnair elementary,"13881 Hopkins Road, Germantown, MD, 20874",7.0,E,847,17.0
+59,sargent shriver elementary,"12518 Greenly Street, Silver Spring, MD, 20906",6.0,E,775,12.0
+60,thurgood marshall elementary,"12260 McDonald Chapel Dr, Gaithersburg, MD, 20878",6.0,E,667,16.0
+61,ashburton elementary,"6314 Lone Oak Drive, Bethesda, MD, 20817",6.0,E,891,17.0
+62,joann leleck at broad acres elementary,"710 Beacon Road, Silver Spring, MD, 20903",6.0,E,828,11.0
+63,brookhaven elementary,"4610 Renn Street, Rockville, MD, 20853",6.0,E,456,10.0
+64,candlewood elementary,"7210 Osprey Drive, Rockville, MD, 20855",6.0,E,367,13.0
+65,clarksburg elementary,"13530 Redgrave Place, Clarksburg, MD, 20871",6.0,E,529,15.0
+66,darnestown elementary,"15030 Turkey Foot Road, Gaithersburg, MD, 20878",6.0,E,310,15.0
+67,fairland elementary,"14315 Fairdale Road, Silver Spring, MD, 20905",6.0,E,628,12.0
+68,galway elementary,"12612 Galway Drive, Silver Spring, MD, 20904",6.0,E,788,12.0
+69,garrett park elementary,"4810 Oxford Street, Kensington, MD, 20895",6.0,E,798,17.0
+70,germantown elementary,"19110 Liberty Mill Road, Germantown, MD, 20874",6.0,E,321,10.0
+71,highland elementary,"3100 Medway Street, Silver Spring, MD, 20902",6.0,E,548,11.0
+72,maryvale elementary,"15101 Bauer Drive, Rockville, MD, 20853",6.0,E,617,13.0
+73,oakland terrace elementary,"2720 Plyers Mill Road, Silver Spring, MD, 20902",6.0,E,490,11.0
+74,pine crest elementary,"201 Woodmoor Drive, Silver Spring, MD, 20901",6.0,E,435,14.0
+75,beall elementary,"451 Beall Avenue, Rockville, MD, 20850",6.0,E,572,16.0
+76,wheaton woods elementary,"4510 Faroe Place, Rockville, MD, 20853",6.0,E,522,11.0
+77,waters landing elementary,"13100 Waters Landing Drive, Germantown, MD, 20874",6.0,E,667,13.0
+78,greencastle elementary,"13611 Robey Road, Silver Spring, MD, 20904",6.0,E,700,13.0
+79,goshen elementary,"8701 Warfield Road, Gaithersburg, MD, 20882",6.0,E,578,13.0
+80,sequoyah elementary,"17301 Bowie Mill Road, Derwood, MD, 20855",6.0,E,389,11.0
+81,great seneca creek elementary,"13010 Dairymaid Drive, Germantown, MD, 20874",5.0,E,606,13.0
+82,arcola elementary,"1820 Franwall Avenue, Silver Spring, MD, 20902",5.0,E,732,11.0
+83,dr. sally k. ride elementary,"21301 Seneca Crossing Drive, Germantown, MD, 20876",5.0,E,519,11.0
+84,s. christa mcauliffe elementary,"12500 Wisteria Drive, Germantown, MD, 20874",5.0,E,567,12.0
+85,brown station elementary,"850 Quince Orchard Boulevard, Gaithersburg, MD, 20878",5.0,E,585,12.0
+86,burtonsville elementary,"15516 Old Columbia Pike, Burtonsville, MD, 20866",5.0,E,627,15.0
+87,college gardens elementary,"1700 Yale Place, Rockville, MD, 20850",5.0,E,695,16.0
+88,east silver spring elementary,"631 Silver Spring Avenue, Silver Spring, MD, 20910",5.0,E,511,12.0
+89,fields road elementary,"1 School Drive, Gaithersburg, MD, 20878",5.0,E,474,13.0
+90,gaithersburg elementary,"35 North Summit Avenue, Gaithersburg, MD, 20877",5.0,E,839,11.0
+91,glen haven elementary,"10900 Inwood Avenue, Silver Spring, MD, 20902",5.0,E,482,11.0
+92,jackson road elementary,"900 Jackson Road, Silver Spring, MD, 20904",5.0,E,726,11.0
+93,kemp mill elementary,"411 Sisson Street, Silver Spring, MD, 20902",5.0,E,491,11.0
+94,flora m. singer elementary,"2600 Hayden Drive, Silver Spring, MD, 20902",5.0,E,669,12.0
+95,mill creek towne elementary,"17700 Park Mill Dr, Rockville, MD, 20855",5.0,E,464,11.0
+96,oak view elementary,"400 East Wayne Avenue, Silver Spring, MD, 20901",5.0,E,430,13.0
+97,rock creek valley elementary,"5121 Russett Road, Rockville, MD, 20853",5.0,E,441,10.0
+98,rosemont elementary,"16400 Alden Avenue, Gaithersburg, MD, 20877",5.0,E,628,11.0
+99,strathmore elementary,"3200 Beaverwood Lane, Silver Spring, MD, 20906",5.0,E,448,12.0
+100,viers mill elementary,"11711 Joseph Mill Road, Silver Spring, MD, 20906",5.0,E,604,11.0
+101,washington grove elementary,"8712 Oakmont Street, Gaithersburg, MD, 20877",5.0,E,488,10.0
+102,weller road elementary,"3301 Weller Road, Silver Spring, MD, 20906",5.0,E,714,12.0
+103,whetstone elementary,"19201 Thomas Farm Rd, Gaithersburg, MD, 20879",5.0,E,751,12.0
+104,lake seneca elementary,"13600 Wanegarden Drive, Germantown, MD, 20874",5.0,E,516,12.0
+105,strawberry knoll elementary,"18820 Strawberry Knoll Road, Gaithersburg, MD, 20879",5.0,E,640,12.0
+106,cloverly elementary,"800 Briggs Chaney Road, Silver Spring, MD, 20905",5.0,E,533,13.0
+107,burnt mills elementary,"11211 Childs Street, Silver Spring, MD, 20901",5.0,E,607,13.0
+108,judith a. resnik elementary,"7301 Hadley Farms Drive, Gaithersburg, MD, 20879",5.0,E,640,13.0
+109,cannon road elementary,"901 Cannon Road, Silver Spring, MD, 20904",4.0,E,412,11.0
+110,cresthaven elementary,"1234 Cresthaven Drive, Silver Spring, MD, 20903",4.0,E,557,13.0
+111,damascus elementary,"10201 Bethesda Church Road, Damascus, MD, 20872",4.0,E,341,13.0
+112,glenallan elementary,"12520 Heurich Road, Silver Spring, MD, 20902",4.0,E,746,12.0
+113,highland view elementary,"9010 Providence Avenue, Silver Spring, MD, 20901",4.0,E,440,12.0
+114,meadow hall elementary,"951 Twinbrook Parkway, Rockville, MD, 20851",4.0,E,431,10.0
+115,rolling terrace elementary,"705 Bayfield Street, Takoma Park, MD, 20912",4.0,E,798,12.0
+116,south lake elementary,"18201 Contour Road, Gaithersburg, MD, 20877",4.0,E,831,12.0
+117,stedwick elementary,"10631 Stedwick Road, Montgomery Village, MD, 20886",4.0,E,583,13.0
+118,summit hall elementary,"101 West Deer Park Road, Gaithersburg, MD, 20877",4.0,E,672,11.0
+119,twinbrook elementary,"5911 Ridgway Avenue, Rockville, MD, 20851",4.0,E,582,11.0
+120,watkins mill elementary,"19001 Watkins Mill Rd, Montgomery Village, MD, 20886",4.0,E,700,11.0
+121,flower hill elementary,"18425 Flower Hill Way, Gaithersburg, MD, 20879",4.0,E,456,12.0
+122,clopper mill elementary,"18501 Cinnamon Drive, Germantown, MD, 20874",4.0,E,562,12.0
+123,georgian forest elementary,"3100 Regina Drive, Silver Spring, MD, 20906",3.0,E,655,13.0
+124,harmony hills elementary,"13407 Lydia Street, Silver Spring, MD, 20906",3.0,E,716,12.0
+125,rock view elementary,"3901 Denfeld Avenue, Kensington, MD, 20895",3.0,E,698,11.0
+126,captain james e. daly elementary,"20301 Brandermill Drive, Germantown, MD, 20876",3.0,E,585,12.0
+127,roscoe r nix elementary,"1100 Corliss Street, Silver Spring, MD, 20903",,E,506,11.0
+128,bayard rustin elementary,"322 West Edmonston Drive, Rockville, MD, 20852",,E,600,
+129,bel pre elementary,"13801 Rippling Brook Drive, Silver Spring, MD, 20906",,E,586,12.0
+130,montgomery knolls elementary,"807 Daleview Drive, Silver Spring, MD, 20901",,E,489,11.0
+131,new hampshire estates elementary,"8720 Carroll Avenue, Silver Spring, MD, 20903",,E,442,10.0
+132,rosemary hills elementary,"2111 Porter Road, Silver Spring, MD, 20910",,E,559,14.0
+133,takoma park elementary,"7511 Holly Avenue, Takoma Park, MD, 20912",,E,641,13.0
+134,herbert hoover middle,"8810 Post Oak Rd, Potomac, MD, 20854",9.0,M,1043,15.0
+135,robert frost middle,"9201 Scott Drive, Rockville, MD, 20850",9.0,M,1074,17.0
+136,thomas w. pyle middle,"6311 Wilson Lane, Bethesda, MD, 20817",9.0,M,1530,16.0
+137,john h. poole middle,"17014 Tom Fox Avenue, Poolesville, MD, 20837",8.0,M,395,13.0
+138,westland middle,"5511 Massachusetts Avenue, Bethesda, MD, 20816",8.0,M,770,14.0
+139,william h. farquhar middle,"17017 Batchellors Forest Road, Olney, MD, 20832",8.0,M,705,15.0
+140,cabin john middle,"10701 Gainsborough Road, Potomac, MD, 20854",8.0,M,1023,15.0
+141,north bethesda middle,"8935 Bradmoor Drive, Bethesda, MD, 20817",7.0,M,1163,17.0
+142,hallie wells middle,"11701 Little Seneca Parkway, Clarksburg, MD, 20871",7.0,M,792,14.0
+143,rosa m. parks middle,"19200 Olney Mill Road, Olney, MD, 20832",7.0,M,826,16.0
+144,rocky hill middle,"22401 Brick Haven Way, Clarksburg, MD, 20871",7.0,M,844,14.0
+145,kingsview middle,"18909 Kingsview Road, Germantown, MD, 20874",7.0,M,996,16.0
+146,takoma park middle,"7611 Piney Branch Rd, Silver Spring, MD, 20910",7.0,M,1107,16.0
+147,tilden middle,"11211 Old Georgetown Road, Rockville, MD, 20852",7.0,M,989,15.0
+148,john t. baker middle,"25400 Oak Drive, Damascus, MD, 20872",7.0,M,850,15.0
+149,silver spring international middle,"313 Wayne Avenue, Silver Spring, MD, 20910",6.0,M,1125,14.0
+150,lakelands park middle,"1200 Main Street, Gaithersburg, MD, 20878",6.0,M,1121,15.0
+151,roberto w. clemente middle,"18808 Waring Station Road, Germantown, MD, 20874",6.0,M,1301,15.0
+152,julius west middle,"651 Great Falls Road, Rockville, MD, 20850",6.0,M,1317,15.0
+153,ridgeview middle,"16600 Raven Rock Drive, Gaithersburg, MD, 20878",6.0,M,751,13.0
+154,sligo middle,"1401 Dennis Avenue, Silver Spring, MD, 20902",6.0,M,657,12.0
+155,briggs chaney middle,"1901 Rainbow Drive, Silver Spring, MD, 20905",6.0,M,896,13.0
+156,argyle middle,"2400 Bel Pre Rd, Silver Spring, MD, 20906",5.0,M,1008,14.0
+157,earle b. wood middle,"14615 Bauer Drive, Rockville, MD, 20853",5.0,M,964,13.0
+158,gaithersburg middle,"2 Teachers Way, Gaithersburg, MD, 20877",5.0,M,863,12.0
+159,redland middle,"6505 Muncaster Mill Rd, Rockville, MD, 20855",5.0,M,608,12.0
+160,white oak middle,"12201 New Hampshire Avenue, Silver Spring, MD, 20904",5.0,M,784,12.0
+161,eastern middle,"300 University Boulevard East, Silver Spring, MD, 20901",5.0,M,970,13.0
+162,shady grove middle,"8100 Midcounty Highway, Gaithersburg, MD, 20877",4.0,M,627,12.0
+163,newport mill middle,"11311 Newport Mill Rd, Kensington, MD, 20895",4.0,M,675,12.0
+164,a. mario loiederman middle,"12701 Goodhill Road, Silver Spring, MD, 20906",4.0,M,986,13.0
+165,neelsville middle,"11700 Neelsville Church Road, Germantown, MD, 20876",4.0,M,944,13.0
+166,benjamin banneker middle,"14800 Perrywood Drive, Burtonsville, MD, 20866",4.0,M,856,13.0
+167,col. e. brooke lee middle,"11800 Monticello Avenue, Silver Spring, MD, 20902",4.0,M,760,13.0
+168,parkland middle,"4610 West Frankfort Drive, Rockville, MD, 20853",4.0,M,1058,14.0
+169,martin luther king jr. middle,"13737 Wisteria Drive, Germantown, MD, 20874",4.0,M,648,12.0
+170,francis scott key middle,"910 Schindler Drive, Silver Spring, MD, 20903",4.0,M,991,14.0
+171,forest oak middle,"651 Saybrooke Oaks Boulevard, Gaithersburg, MD, 20877",3.0,M,864,13.0
+172,montgomery village middle,"19300 Watkins Mill Road, Montgomery Village, MD, 20886",3.0,M,743,12.0
+173,silver creek middle,"3701 Saul Road, Kensington, MD, 20895",,M,865,14.0
+174,poolesville high,"17501 West Willard Road, Poolesville, MD, 20837",9.0,H,1185,16.0
+175,walt whitman high,"7100 Whittier Boulevard, Bethesda, MD, 20817",9.0,H,2098,17.0
+176,walter johnson high,"6400 Rock Spring Drive, Bethesda, MD, 20814",8.0,H,2587,18.0
+177,winston churchill high,"11300 Gainsborough Road, Potomac, MD, 20854",8.0,H,2227,17.0
+178,bethesda-chevy chase high,"4301 East West Highway, Bethesda, MD, 20814",7.0,H,2124,18.0
+179,thomas s. wootton high,"2100 Wootton Parkway, Rockville, MD, 20850",7.0,H,2107,17.0
+180,damascus high,"25921 Ridge Road, Damascus, MD, 20872",7.0,H,1311,16.0
+181,clarksburg high,"22500 Wims Road, Clarksburg, MD, 20871",6.0,H,2328,16.0
+182,northwest high,"13501 Richter Farm Road, Germantown, MD, 20874",6.0,H,2586,17.0
+183,paint branch high,"14121 Old Columbia Pike, Burtonsville, MD, 20866",5.0,H,2005,15.0
+184,richard montgomery high,"250 Richard Montgomery Drive, Rockville, MD, 20852",5.0,H,2483,17.0
+185,sherwood high,"300 Olney-Sandy Spring Rd, Sandy Spring, MD, 20860",5.0,H,1973,17.0
+186,james hubert blake high,"300 Norwood Road, Silver Spring, MD, 20905",5.0,H,1717,16.0
+187,quince orchard high,"15800 Quince Orchard Road, Gaithersburg, MD, 20878",5.0,H,2100,16.0
+188,albert einstein high,"11135 Newport Mill Road, Kensington, MD, 20895",4.0,H,1746,14.0
+189,col. zadok magruder high,"5939 Muncaster Mill Rd, Rockville, MD, 20855",4.0,H,1609,15.0
+190,montgomery blair high,"51 University Boulevard East, Silver Spring, MD, 20901",4.0,H,3196,16.0
+191,rockville high,"2100 Baltimore Road, Rockville, MD, 20851",4.0,H,1450,14.0
+192,springbrook high,"201 Valleybrook Dr, Silver Spring, MD, 20904",4.0,H,1735,14.0
+193,wheaton high,"12401 Dalewood Drive, Silver Spring, MD, 20906",4.0,H,2077,15.0
+194,watkins mill high,"10301 Apple Ridge Road, Gaithersburg, MD, 20886",4.0,H,1615,14.0
+195,northwood high,"919 University Boulevard West, Silver Spring, MD, 20901",3.0,H,1732,14.0
+196,gaithersburg high,"101 Education Boulevard, Gaithersburg, MD, 20877",3.0,H,2352,13.0
+197,john f. kennedy high,"1901 Randolph Road, Silver Spring, MD, 20902",3.0,H,1781,14.0
+198,seneca valley high,"19401 Crystal Rock Drive, Germantown, MD, 20874",3.0,H,1181,13.0
