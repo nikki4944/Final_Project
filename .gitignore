@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 
 montgomery-county-sales/zillow-data
+config.py
+.DS_Store
+.idea
