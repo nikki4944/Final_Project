@@ -37,7 +37,7 @@ The 2020 demographics data for all Maryland zip codes is avaulable from the Mary
 
 For each school, elementary, middle and high school assignment is determined using gmap places API. The code to do this is [here](montgomery-county-sales/assign_nearest_schools.ipynb). **Warning: Over 30K gmap API calls can result with this code, and it should be used only during the free trial period**. The logic basically finds geographically nearest schools to a given location and treats these schools as assigned schools (this may not always be accurate as district boundaries can be different, but for the most part, it is accurate).
 
-After assigned schools are found, they are added to new columns of the original dataframe and all rows with even a single unassigned school are dropped. When adding assigned schools, we make sure the said school exists in the Montgomery County school ratings data found earlier.
+After assigned schools are found, they are added to new columns of the original dataframe, and all rows with even a single unassigned school are dropped. When adding assigned schools, we make sure the said school exists in the Montgomery County school ratings data found earlier.
 
 ### Data Transformation and Cleaning
 
