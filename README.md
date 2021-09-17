@@ -41,7 +41,7 @@ After assigned schools are found, they are added to new columns of the original 
 
 ### Data Transformation and Cleaning
 
-In this phase, the unneeded columns are dropped, all null rows are dropped and the *lotAreaValue* attribute is normalized by converting all values in hectar units to those in sq. feet. Also, all house types other than a condo, single family and townhouse are dropped, since there are too few of them. Finally, the transformed and cleaned data is exported to a csv file. The code is [here](montgomery-county-sales/transform_data.ipynb). The following columns are retained as they are the most important predictors of the sale price:
+In this phase, the unneeded columns are dropped, all null rows are dropped and the *lotAreaValue* attribute is normalized by converting all values in acre units to those in sq. feet. Also, all house types other than a condo, single family and townhouse are dropped, since there are too few of them. Finally, the transformed and cleaned data is exported to a csv file. The code is [here](montgomery-county-sales/transform_data.ipynb). The following columns are retained as they are the most important predictors of the sale price:
 
 * Price - this is the target itself
 * Number of bathrooms
