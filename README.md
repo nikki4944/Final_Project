@@ -27,13 +27,20 @@ in this part of th eproject my role was to analyse data using visualizations the
  
  
  
+  
+  
+  
+  
+ ![](images/sales_pandemic_project.JPG)
  
- ![](images/price change_project.JPG)
-  
-  
-  
-  
-   ![](images/sales_pandemic_project.JPG)
+ 
+ 
+ ### ** Tableau**
+ 
+ Link:   https://public.tableau.com/app/profile/rakan.alsharif/viz/Dashboard_16320975806010/Dashboard
+ 
+ 
+ 
 
 
  
