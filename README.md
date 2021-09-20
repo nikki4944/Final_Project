@@ -16,3 +16,16 @@ we are connecting Regularly Via Slack and having zoom meetings when needed.
 in this part of th eproject my role was to analyse data using visualizations therefore I have utilized Tableau.
 
 
+### **Results**
+
+ ![](images/map_project.jpg)
+ 
+ 
+ 
+ 
+ ![](images/construction_project.jpg.png)
+ 
+ 
+ 
+ 
+
