@@ -28,7 +28,7 @@ in this part of th eproject my role was to analyse data using visualizations the
  
  
  
-  ![](images/price change_project.JPG)
+ ![](images/price change_project.JPG)
   
   
   
