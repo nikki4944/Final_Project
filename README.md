@@ -18,12 +18,18 @@ in this part of th eproject my role was to analyse data using visualizations the
 
 ### **Results**
 
- ![](images/map_project.jpg)
+ ![](images/map_project.JPG)
  
  
  
  
- ![](images/construction_project.jpg.png)
+ ![](images/construction_project.JPG)
+ 
+ 
+ 
+ 
+  ![](images/runtime_2017.png)
+
  
  
  
