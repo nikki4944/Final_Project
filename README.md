@@ -13,3 +13,9 @@ All data used for the Segment 1 deliverables came from a precleaned and compiled
 ## Communication Protocol
 
 The team is communicating primarily through twice weekly two hour planning sessions as well as a private Slack channel. When necessary, the team also meets on Google MeetUp to track progress, plan next steps, and work through any issues.
+
+## Machine Learning Model
+
+For this project we will be using the linear regression model, Random Forest, to predict housing prices. The features for the model will come from our .csv file containing housing sale information from 2016-2021 in Montgomery County, Maryland. The features for the model are zip code, age, new construction, interior square footage, bedrooms, bathrooms, garage, and structure type.
+
+Currently, we are still troubleshooting some issues with fitting and training the model.
