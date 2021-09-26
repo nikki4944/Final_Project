@@ -54,6 +54,8 @@ in this part of the project my role was to analyse data using visualizations the
  
  Link:   https://public.tableau.com/app/profile/rakan.alsharif/viz/Dashboard_16320975806010/Dashboard
  
+ Link:   https://public.tableau.com/app/profile/rakan.alsharif/viz/Dashboard_16320975806010/Story1#1
+ 
  
  
 
