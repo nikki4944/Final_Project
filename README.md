@@ -35,6 +35,21 @@ in this part of the project my role was to analyse data using visualizations the
  
  
  
+ 
+ ![](images/timetomrkt.JPG)
+ 
+ 
+ 
+ 
+ ![](images/sqft.JPG)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  ### ** Tableau**
  
  Link:   https://public.tableau.com/app/profile/rakan.alsharif/viz/Dashboard_16320975806010/Dashboard
