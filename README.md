@@ -10,9 +10,8 @@ The team intends to use the Pandas library for cleaning and scraping the data, P
 
 All data used for the Segment 1 deliverables came from a precleaned and compiled dataset pulled from kaggle.com in order to mockup the databases and machine learning model we intend to use for the final project deliverable. The team intends to build a similar dataset with data relating to the DMV region and five year time period we are analyzing using webscraping and APIs from zillow.com and Census data for demographic information.
 
-## Communication Protocol
+## Results of Analysis
 
-The team is communicating primarily through twice weekly two hour planning sessions as well as a private Slack channel. When necessary, the team also meets on Google MeetUp to track progress, plan next steps, and work through any issues.
 
 ## Machine Learning Model
 
@@ -35,7 +34,13 @@ The data was split into 20% testing and 80% training sets.
 Two models were created in order to determine the most accurate model for predicting housing prices using this dataset. 
 
 First, a Multiple Linear Regression model was created which yielded a 56% testing accuracy and a 59% training accuracy.
+<img width="715" alt="Screen Shot 2021-09-22 at 9 29 35 PM" src="https://user-images.githubusercontent.com/82982901/135129993-cbaa516b-7760-4b40-81c5-504c6c4fb559.png">
 
 Second, a Random Forest Regressor model was created wich yielded a 96% training accuracy and a 71% testing accuracy.
+<img width="720" alt="Screen Shot 2021-09-22 at 9 31 19 PM" src="https://user-images.githubusercontent.com/82982901/135130012-1051e1c0-3d32-4547-800e-63a1ddefe129.png">
 
 The Random Forest Regressor model is preferred for this project as it has better control over overfitting as well as using averages to improve predictive accuracy.
+
+## Presentation
+
+The Google Collab slides can be found here. The additional Tableau dashboards can be found here and here.
