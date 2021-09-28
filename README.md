@@ -37,9 +37,11 @@ The data was split into 20% testing and 80% training sets.
 Two supervised machine learning models were created in order to determine the most accurate model for predicting housing prices using this dataset.
 
 First, a Multiple Linear Regression model was created which yielded a 56% testing accuracy and a 59% training accuracy.
+
 <img width="715" alt="Screen Shot 2021-09-22 at 9 29 35 PM" src="https://user-images.githubusercontent.com/82982901/134824560-60cd78a9-ac3c-4f9b-95ca-53d15506b3eb.png">
 
 Second, a Random Forest Regressor model was created wich yielded a 96% training accuracy and a 71% testing accuracy.
+
 <img width="720" alt="Screen Shot 2021-09-22 at 9 31 19 PM" src="https://user-images.githubusercontent.com/82982901/134824553-b2f12a50-1669-4b03-934a-4980fe79a1f6.png">
 
 The Random Forest Regressor model is preferred for this project as it has better control over overfitting as well as using averages to improve predictive accuracy. Additional changes to the features of the model will be made in order to see if the accuracy can be improved.
