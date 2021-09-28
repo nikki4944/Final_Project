@@ -45,3 +45,4 @@ The Random Forest Regressor model is preferred for this project as it has better
 ## Presentation
 
 The Google Slides presentation can be found [here](https://docs.google.com/presentation/d/1-4T5Qp4jW8rH_IEMHoFSeD3qF8_sQpcPtzCkrLryhHk/edit?usp=sharing).
+Story (Rakan) can be found [here](https://public.tableau.com/app/profile/rakan.alsharif/viz/Dashboard_16320975806010/Story1).
