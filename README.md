@@ -1,29 +1,29 @@
 # Final_Project
 
-## Project Proposal
+## Project Overview
 
-For the final project, the team has decided to perform an analysis of housing prices for the DMV area over the last five years. The team wants to see if any trends can be detected in the data that might have been interrrupted by the COVID-19 pandemic. For instance, have more homes been purchased in 2020 than the average for the previous four years, have neighborhood demographics changed during the studied time period, and have home prices in 2020 gone up disproportionately to the other years in the study. The team also wants to use a supervised machine learning model to see if the data can be used to predict future home prices in the region.
+For the final project, the team performed an analysis of housing data for Montgomery County, Marland, from 2016 through September 2021. The data was analyzed to see if any trends could be detected in the data that might have been interrrupted by the COVID-19 pandemic. Finally, a supervised machine learning model was built to determine if housing prices could be predicted based on the collected real estate information.
+The data consisted of a .csv file obatined from the real estate MLS database which provided comprehensive housing information for each home sold in Montgomery County. The information in the .csv file was parred down to contain the core elements determined by the group to be most relevant to the analysis.
+
+<img width="326" alt="Screen Shot 2021-09-26 at 5 39 07 PM" src="https://user-images.githubusercontent.com/82982901/134825053-6cb0d9ba-6ae5-490d-a8ab-8c74dbd06e09.png">
 
 ## Technology Overview
 
-The team intends to use the Pandas library for cleaning and scraping the data, PostgreSQL to store and complile the dataset to be analyzed, and the SciKitLearn library for compiling the machine learning model. Additionally, all visuals for the final deliverable will be created using Tableau. The project will be loaded for public access using Amazon Web Services.
+The team used the Pandas library for cleaning and scraping the data, PostgreSQL to store the dataset, and the SciKitLearn library for compiling the machine learning model. Additionally, all visuals for the final deliverable were created using Tableau.
 
-All data used for the Segment 1 deliverables came from a precleaned and compiled dataset pulled from kaggle.com in order to mockup the databases and machine learning model we intend to use for the final project deliverable. The team intends to build a similar dataset with data relating to the DMV region and five year time period we are analyzing using webscraping and APIs from zillow.com and Census data for demographic information.
-
-## Results of Analysis
-
+## Overview of Analysis
 
 ## Machine Learning Model
 
 ### Data Preprocessing
 
-The machine learning models were created using our previously cleaned csv file of housing information obtained from the real estate MLS database. The original data set contained over 100 columns which were trimmed down to seventeen of the most important as determined by the group.
+The machine learning models were created using our previously cleaned .csv file of housing information obtained from the real estate MLS database. The original data set contained over 100 columns which were trimmed down to seventeen of the most important as determined by the group.
 
 For the machine learning model, the seventeen columns, or features, were trimmed down further to only contain the following: Sold Price, New Construction YN, Age, InteriorSqFt, Bedrooms, Baths, Garage YN, #ofStories, and Stucture Type. The Sold Price column was further preproccessed by removing the "$" and "," from the number. The final step was to run .get_dummies() on the dataframe to convert all features to numerical values.
 
 ### Feature Selection
 
-As the purpuse of the model is to predict housing prices, the Sold Price column was used as the target feature.
+The model is designed to predict housing prices based on the features provided for analysis. The Sold Price column was designated as the target with the New Construction UN, Age, InteriorSqFt, Bedrooms, Baths, Garage YN, #ofStories, and Structure Type columns used as the features. 
 
 ### Training and Testing
 
@@ -31,16 +31,15 @@ The data was split into 20% testing and 80% training sets.
 
 ### Model Choice
 
-Two models were created in order to determine the most accurate model for predicting housing prices using this dataset. 
+Two supervised machine learning models were created in order to determine the most accurate model for predicting housing prices using this dataset.
 
 First, a Multiple Linear Regression model was created which yielded a 56% testing accuracy and a 59% training accuracy.
-<img width="715" alt="Screen Shot 2021-09-22 at 9 29 35 PM" src="https://user-images.githubusercontent.com/82982901/135129993-cbaa516b-7760-4b40-81c5-504c6c4fb559.png">
+<img width="715" alt="Screen Shot 2021-09-22 at 9 29 35 PM" src="https://user-images.githubusercontent.com/82982901/134824560-60cd78a9-ac3c-4f9b-95ca-53d15506b3eb.png">
 
 Second, a Random Forest Regressor model was created wich yielded a 96% training accuracy and a 71% testing accuracy.
-<img width="720" alt="Screen Shot 2021-09-22 at 9 31 19 PM" src="https://user-images.githubusercontent.com/82982901/135130012-1051e1c0-3d32-4547-800e-63a1ddefe129.png">
+<img width="720" alt="Screen Shot 2021-09-22 at 9 31 19 PM" src="https://user-images.githubusercontent.com/82982901/134824553-b2f12a50-1669-4b03-934a-4980fe79a1f6.png">
 
-The Random Forest Regressor model is preferred for this project as it has better control over overfitting as well as using averages to improve predictive accuracy.
+The Random Forest Regressor model is preferred for this project as it has better control over overfitting as well as using averages to improve predictive accuracy. Additional changes to the features of the model will be made in order to see if the accuracy can be improved.
 
 ## Presentation
-
-The Google Collab slides can be found here. The additional Tableau dashboards can be found here and here.
+The Google Slides presentation can be found [here](https://docs.google.com/presentation/d/1-4T5Qp4jW8rH_IEMHoFSeD3qF8_sQpcPtzCkrLryhHk/edit?usp=sharing).
