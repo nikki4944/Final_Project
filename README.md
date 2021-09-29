@@ -45,19 +45,21 @@ The data was split into 20% testing and 80% training sets.
 
 Two supervised machine learning models were created in order to determine the most accurate model for predicting housing prices using this dataset.
 
-First, a Multiple Linear Regression model was created which yielded a 56% testing accuracy and a 59% training accuracy.
+* First, a Multiple Linear Regression model was created which yielded a 56% testing accuracy and a 59% training accuracy.
 
 <img width="715" alt="Screen Shot 2021-09-22 at 9 29 35 PM" src="https://user-images.githubusercontent.com/82982901/134824560-60cd78a9-ac3c-4f9b-95ca-53d15506b3eb.png">
 
-Second, a Random Forest Regressor model was created wich yielded a 96% training accuracy and a 71% testing accuracy.
+* Second, a Random Forest Regression model was created wich yielded a 96% training accuracy and a 71% testing accuracy.
 
 <img width="720" alt="Screen Shot 2021-09-22 at 9 31 19 PM" src="https://user-images.githubusercontent.com/82982901/134824553-b2f12a50-1669-4b03-934a-4980fe79a1f6.png">
 
-The Random Forest Regressor model is preferred for this project as it has better control over overfitting as well as using averages to improve predictive accuracy. Additional changes to the features of the model will be made in order to see if the accuracy can be improved.
+The Random Forest Regression model is preferred for this project as it has better control over overfitting as well as using averages to improve predictive accuracy. Expansion of the features based on the recommendations in the next section are expected to increase the testing accuracy of the Random Forest Regression model.
 
 ## Summary
 
+The analysis successfully identified three areas where the pandemic has started to impact the housing market in Montgomery County. Additionally, the machine learning model is able to predict housing prices based on the data with a 71% accuracy.
 
+This analysis is limited as it only takes into account information pertaining directly to the property, location, and features of the house. The analysis would benefit from the inclusion of school district ratings; metro and trasportation statistics, such as proximity to address; demographic information, such as age and salary of buys; and inflation information. 
 
 ## Presentation
 The Google Slides presentation can be found [here](https://docs.google.com/presentation/d/1-4T5Qp4jW8rH_IEMHoFSeD3qF8_sQpcPtzCkrLryhHk/edit?usp=sharing).
