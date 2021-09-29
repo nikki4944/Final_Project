@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-For the final project, the team performed an analysis of housing data for Montgomery County, Marland, from January 2016 through September 2021. The data was analyzed to see if any trends could be detected in the data that might have been interrrupted by the COVID-19 pandemic. Finally, a supervised machine learning model was built to determine if housing prices could be predicted based on the collected real estate information.
+For the final project, the team performed an analysis of housing data for Montgomery County, Marland, from January 2016 through September 2021. The data was analyzed to see if any trends could be detected in the data that might have been impacted by the COVID-19 pandemic. Finally, a supervised machine learning model was built to determine if housing prices could be predicted based on the collected real estate information.
 
 The data consisted of a .csv file obatined from the real estate MLS database which provided comprehensive housing information for each home sold in Montgomery County over the past five years. The information in the .csv file was parred down to contain the core elements determined by the group to be most relevant to the analysis.
 
@@ -10,11 +10,20 @@ The data consisted of a .csv file obatined from the real estate MLS database whi
 
 ## Technology Overview
 
-The team used the Pandas library for cleaning and scraping the data, PostgreSQL to store the dataset, and the SciKitLearn library for compiling the machine learning model. Additionally, all visuals for the final deliverable were created using Tableau.
+The team used the Pandas library for cleaning and scraping the data, PostgreSQL to store the dataset, SQLAlchemy to connect the database, and the SciKitLearn library for compiling the machine learning model. Additionally, the dashboard and all visuals for the analysis were created using Tableau.
 
-## Overview of Analysis
+## Results of Analysis
 
+The analysis found three key areas where the COVID-19 pandemic appears to have impacted the housing market: time to market, total number of homes sold, and average home price.
 
+* First, the biggest impact of the pandemic on the housing market has been the amount of time properties remain on the market. As the following image shows, the average time a property was on the market has been cut in half from it's high of 120 days in April 2016 to less than 60 days in June 2021.
+<img width="978" alt="Screen Shot 2021-09-29 at 1 15 03 PM" src="https://user-images.githubusercontent.com/82982901/135317351-90ed4d96-f347-433c-9ef9-f906c5d3e71c.png">
+
+* Second, the total number of homes sold in Montogomery County increased dramatically beginning in Q2 of 2019, a 35% increase from the previous year. Following the on-set of the pandemic in 2020, the usual pattern of busy season for buying has remained the same, with Q1 averaging the least number of sales per year; however, the other three quarters have reported significant increases in sales compared to pre-2019 numbers. The increased volume of sold homes has not returned to pre-2019 levels and is continuing to trend upward.
+<img width="864" alt="Screen Shot 2021-09-29 at 1 29 46 PM" src="https://user-images.githubusercontent.com/82982901/135321184-cbf4231b-acaa-4f07-8888-cc15a7049178.png">
+
+* Finally, the average housing price has risen by $100,000 since the pandemic began. However, while this is a significant increase, it is in line with the data from previous years.
+<img width="866" alt="Screen Shot 2021-09-29 at 1 17 54 PM" src="https://user-images.githubusercontent.com/82982901/135318451-5506f86e-08e0-493c-9df7-d5c869e1c1db.png">
 
 ## Machine Learning Model
 
